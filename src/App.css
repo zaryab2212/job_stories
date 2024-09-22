@@ -1,0 +1,42 @@
+.mainCard{
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: .7rem;
+  background-color: #f7f7f7;
+  margin: 3rem;
+
+
+}
+
+.cardHeading{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.4rem;
+  color: darkkhaki;
+  margin: 2px;
+  padding: 2px;
+}
+
+.clickAble{
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.4rem;
+    color: darkkhaki;
+    margin: 2px;
+    padding: 2px;
+    cursor: pointer;
+    text-decoration: underline;
+
+
+}
+
+.btn{
+  padding: 3px;
+  color: darkkhaki;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  font-weight: 500  ;
+  margin: 2rem;
+  width: 100%;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
